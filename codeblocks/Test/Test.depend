@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1547802855 source:c:\users\administrator.win-20160308umz\desktop\pg\c\pat\test\main.cpp
+	<stdio.h>
+	<cmath>
+
+1552208296 source:c:\users\administrator.win-20160308umz\desktop\pg\c\pat\codeblocks\test\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+

@@ -1,0 +1,5 @@
+﻿  1025.cpp
+c:\users\administrator.win-20160308umz\desktop\pg\c\pat\1025\1025\1025.cpp(83): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+  1025.vcxproj -> C:\Users\Administrator.WIN-20160308UMZ\Desktop\PG\c\PAT\1025\Debug\1025.exe
+  1025.vcxproj -> C:\Users\Administrator.WIN-20160308UMZ\Desktop\PG\c\PAT\1025\Debug\1025.pdb (Full PDB)

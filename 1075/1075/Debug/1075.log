@@ -1,0 +1,11 @@
+﻿  1075.cpp
+c:\users\administrator.win-20160308umz\desktop\pg\c\pat\1075\1075\1075.cpp(25): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+c:\users\administrator.win-20160308umz\desktop\pg\c\pat\1075\1075\1075.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\administrator.win-20160308umz\desktop\pg\c\pat\1075\1075\1075.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\administrator.win-20160308umz\desktop\pg\c\pat\1075\1075\1075.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  1075.vcxproj -> C:\Users\Administrator.WIN-20160308UMZ\Desktop\PG\c\PAT\1075\Debug\1075.exe
+  1075.vcxproj -> C:\Users\Administrator.WIN-20160308UMZ\Desktop\PG\c\PAT\1075\Debug\1075.pdb (Full PDB)

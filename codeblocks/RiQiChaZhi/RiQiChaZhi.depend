@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548919087 source:c:\users\administrator.win-20160308umz\desktop\pg\c\pat\codeblocks\riqichazhi\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<algorithm>
+	<map>
+	<vector>
+	<queue>
+	<Windows.h>
+

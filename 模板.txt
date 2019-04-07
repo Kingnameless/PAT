@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<iostream>
+#include<cstring>
+#include<string>
+#include<vector>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+
+int main() {
+#ifdef ONLINE_JUDGE    
+#else    
+	freopen("C://Users/Administrator.WIN-20160308UMZ/Desktop/PG/c/PAT/input.txt", "r",stdin);
+#endif    
+	/* your code */
+	return 0;
+}
+
+/*
+易错点：
+收获：
+*/
+//未完成：B1048 

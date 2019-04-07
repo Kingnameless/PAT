@@ -1,0 +1,8 @@
+﻿  1103.cpp
+c:\users\administrator.win-20160308umz\desktop\pg\c\pat\1103\1103\1103.cpp(31): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+c:\users\administrator.win-20160308umz\desktop\pg\c\pat\1103\1103\1103.cpp(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\administrator.win-20160308umz\desktop\pg\c\pat\1103\1103\1103.cpp(13): warning C4715: “cmp”: 不是所有的控件路径都返回值
+  1103.vcxproj -> C:\Users\Administrator.WIN-20160308UMZ\Desktop\PG\c\PAT\1103\Debug\1103.exe
+  1103.vcxproj -> C:\Users\Administrator.WIN-20160308UMZ\Desktop\PG\c\PAT\1103\Debug\1103.pdb (Full PDB)
