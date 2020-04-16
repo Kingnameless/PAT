@@ -1,1 +1,1 @@
-﻿个人PAT题解，难免有不足之处，欢迎指正。
+﻿solution to PAT
